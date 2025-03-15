@@ -1,11 +1,11 @@
 # Setup 
 ## run the following commands 
-
+### This is purely for configurting the python virtual env
 1) Using script 
 chmod +x setup_env.sh
 ./setup_env.sh
 
-2) non using script (this assumes windows please see your own language for more details)
+2) non using script (this assumes windows)
 python -m venv ./venv
 ./venv/Scripts/activate 
 pip install requests
