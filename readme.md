@@ -1,5 +1,4 @@
 # Setup 
-
 ## run the following commands 
 
 1) Using script 
